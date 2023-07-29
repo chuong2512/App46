@@ -135,8 +135,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -391.80292}
-  m_SizeDelta: {x: 0, y: -1130.1533}
+  m_AnchoredPosition: {x: 0, y: -452.39944}
+  m_SizeDelta: {x: 0, y: -1251.3462}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5985530318421008291
 CanvasRenderer:
@@ -456,7 +456,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 632.82}
+  m_SizeDelta: {x: 0, y: 949.22}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!222 &5985530319121382769
 CanvasRenderer:
@@ -486,19 +486,25 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "V\u1EEAA \u0110I V\u1EEAA S\u1EA0C, N\u1ED4I B\u1EACT D\u1EAAN \u0110\u1EA6U\nRa
-    m\u1EAFt v\xE0o m\xF9a h\xE8 n\u0103m 2021, ODORA TTFAR nhanh ch\xF3ng tr\u1EDF
-    th\xE0nh c\xE1i t\xEAn hot nh\u1EA5t c\u1EE7a l\xE0ng xe \u0111i\u1EC7n nh\u1EDD
-    thi\u1EBFt k\u1EBF s\xE0nh \u0111i\u1EC7u, tr\u1EBB trung. \u0110\u1EB7c bi\u1EC7t,
-    s\u1EF1 \u0111\u1ED9t ph\xE1 v\u1EDBi c\xF4ng ngh\u1EC7 TTFAR - V\u1EEBa \u0111i
-    v\u1EEBa s\u1EA1c gi\xFAp xe di chuy\u1EC3n qu\xE3ng \u0111\u01B0\u1EDDng \u0111i
-    xa h\u01A1n 100km \u0111\xE3 gi\xFAp ODORA x\u1EE9ng \u0111\xE1ng l\u1ECDt v\xE0o
-    Top xe b\xE1n ch\u1EA1y h\xE0ng \u0111\u1EA7u hi\u1EC7n nay.\nODORA TTFAR trang
-    b\u1ECB m\xE0n h\xECnh \u0111i\u1EC7n t\u1EED th\xF4ng minh \u0111a s\u1EAFc,
-    t\u0103ng t\xEDnh th\u1EA9m m\u1EF9 cao c\u1EA5p h\u01A1n. M\xE0n h\xECnh tinh
-    th\u1EC3 l\u1ECFng 4,7 inch to b\u1EA3n, hi\u1EC3n th\u1ECB r\xF5 n\xE9t c\xE1c
-    th\xF4ng s\u1ED1 v\u1EC1 v\u1EADn t\u1ED1c, l\u01B0\u1EE3ng \u0111i\u1EC7n, ODO
-    v\xE0 ch\u1EBF \u0111\u1ED9 l\xE1i. "
+  m_text: "\u0110i\u1EC3m nh\u1EA5n h\xE0nh tr\xECnh\r\nH\xE0nh tr\xECnh:\tH\xE0
+    N\u1ED9i - B\xE1i \u0110\xEDnh - Tr\xE0ng An\r\nL\u1ECBch tr\xECnh:\t1 ng\xE0y\r\nNg\xE0y
+    kh\u1EDFi h\xE0nh:\tH\xE0ng ng\xE0y\r\nV\u1EADn chuy\u1EC3n:\tXe du l\u1ECBch
+    \u0111\u1EDDi m\u1EDBi \r\nDu l\u1ECBch Mi\u1EC1n B\u1EAFc H\xE0 N\u1ED9i - B\xE1i
+    \u0110\xEDnh - Tr\xE0ng An 1 ng\xE0y t\u1EEB H\xE0 N\u1ED9i 2023. Ch\xF9a B\xE1i
+    \u0110\xEDnh l\xE0 m\u1ED9t qu\u1EA7n th\u1EC3 ch\xF9a l\u1EDBn v\u1EDBi nhi\u1EC1u
+    k\u1EF7 l\u1EE5c ch\xE2u \xC1 v\xE0 Vi\u1EC7t Nam \u0111\u01B0\u1EE3c x\xE1c
+    l\u1EADp nh\u01B0 ch\xF9a c\xF3 t\u01B0\u1EE3ng Ph\u1EADt b\u1EB1ng \u0111\u1ED3ng
+    d\xE1t v\xE0ng l\u1EDBn nh\u1EA5t ch\xE2u \xC1, ch\xF9a c\xF3 h\xE0nh lang La
+    H\xE1n d\xE0i nh\u1EA5t ch\xE2u \xC1, c\xF3 t\u01B0\u1EE3ng Di l\u1EB7c b\u1EB1ng
+    \u0111\u1ED3ng l\u1EDBn nh\u1EA5t \u0110\xF4ng Nam \xC1... \u0110\xE2y l\xE0
+    ng\xF4i ch\xF9a l\u1EDBn nh\u1EA5t v\xE0 s\u1EDF h\u1EEFu nhi\u1EC1u k\u1EF7
+    l\u1EE5c nh\u1EA5t \u1EDF Vi\u1EC7t Nam. C\xE1c h\u1EA1ng m\u1EE5c x\xE2y d\u1EF1ng,
+    m\u1EDF r\u1ED9ng khu ch\xF9a m\u1EDBi \u0111\u01B0\u1EE3c c\xE1c \u0111\u1EA1i
+    bi\u1EC3u tham d\u1EF1 \u0111\u1EA1i l\u1EC5 Ph\u1EADt \u0111\u1EA3n th\u1EBF
+    gi\u1EDBi 2008 l\xE0m l\u1EC5 kh\xE1nh th\xE0nh giai \u0111o\u1EA1n 1, n\u0103m
+    2010 ch\xF9a B\xE1i \u0110\xEDnh l\xE0 n\u01A1i t\u1ED5 ch\u1EE9c \u0110\u1EA1i
+    l\u1EC5 cung nghinh x\xE1 l\u1EE3i Ph\u1EADt \u0111\u1EA7u ti\xEAn t\u1EEB \u1EA4n
+    \u0110\u1ED9 v\u1EC1 Vi\u1EC7t Nam."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 661062368b9d93d4eb177222cdd54f5a, type: 2}
   m_sharedMaterial: {fileID: -3552317276621379475, guid: 661062368b9d93d4eb177222cdd54f5a, type: 2}
